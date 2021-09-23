@@ -1,24 +1,52 @@
-# hello-world
+## Vue JS To Do List
+This application is an Vue JS To Do List. Enjoy It <3
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Technology 
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Here are the technologies used in this project.
 
-### Lints and fixes files
-```
-npm run lint
-```
+* Vue JS
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Services Used
+
+* Github
+
+
+## Getting started
+
+* Dependency
+  - npm
+
+* To run the project:
+  - npm run serve
+
+## Screens
+
+![Homepage image](https://github.com/Lucasdfg07/VueJS-ToDoList/blob/master/public/readme/vueJS.png)
+
+
+## Features
+
+The main features of the application are:
+ - Add Skills
+ - Remove Skills
+
+
+## Links
+  - Repository: https://github.com/Lucasdfg07/VueJS-ToDoList
+    - In case of sensitive bugs like security vulnerabilities, please contact
+      Lucassiqueiraferandes07@gmail.com directly instead of using issue tracker. We value your effort
+      to improve the security and privacy of this project!
+
+  ## Versioning
+
+  1.0.0.0
+
+
+  ## Authors
+
+  * **Lucas Siqueira Fernandes** 
+
+  Please follow github and join us!
+  Thanks to visiting me and good coding!
